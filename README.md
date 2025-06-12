@@ -7,6 +7,8 @@
 1. 所有資料名稱所顯示的**時間都是UTC**
 2. 資料內變數名稱兩者差異不大，但是風向風速這類變數，在有人站是有瞬時跟平均兩個種類，所以變數的名稱不太一樣，其中下圖中的變數名稱分別在10M和15M是對應的
 
-![image](https://github.com/user-attachments/assets/237fa955-9d90-4e83-8f81-936aa51c088a)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/237fa955-9d90-4e83-8f81-936aa51c088a" alt="風場變數對照圖" width="60%">
+</div>
 
 
